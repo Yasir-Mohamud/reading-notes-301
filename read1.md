@@ -5,11 +5,13 @@
 1.Flexibale Layout
  _________________
 
-This is the practice of using flexible grids, which are able to resizes any widths, to build website layouts.Use relative lengths such as `vm` viewport width , `vh` viewport height and others.
+
+  - This is the practice of using flexible grids, which are able to resizes any widths, to build website layouts.Use relative lengths such as `vm` viewport width , `vh` viewport height and others.
 
 2.Media Queries
 ________________
-Allows the specification of different styles in individual devices.You can use logical operators which are `and`,`only` and `not`.
+
+- Allows the specification of different styles in individual devices.You can use logical operators which are `and`,`only` and `not`.
 
 3.Flexible Media
 ________________
